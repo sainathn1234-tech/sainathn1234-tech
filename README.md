@@ -1,4 +1,4 @@
-# Hi, I'm Sai Nath Nidumolu 👋
+# Hi, I'm Sainath Nidumolu 👋
 ### Aspiring AI/ML & Data Engineer
 
 Entry-level engineer specializing in Machine Learning pipelines, Data Analytics, and Real-Time AI systems.
@@ -6,7 +6,7 @@ Entry-level engineer specializing in Machine Learning pipelines, Data Analytics,
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, SQL, C++
+- **Languages:** Python, SQL, Java
 - **AI / ML:** PyTorch, Scikit-Learn, LangChain
 - **Data Engineering:** PostgreSQL, Apache Spark, Pandas, Docker
 
